@@ -28,9 +28,9 @@ Libraries specific to some methods are:
 6. SVM
 7. RNN(bidirectional LSTM)
 8. Vader Pre-trained model
+9. BERT
+10. ULMFiT
 
-## Edit:
-Twitter sentiment analysis using BERT.
 
 
 
